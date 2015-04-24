@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.jqRatingContainer { position:relative; top:0; left:0; height:100%; }
+.jqRatingAverage { background-color:#f62929; position:relative; top:0; left:0; height:100%; }
+.jqRatingStar { position:relative; top:0; left:0; height:100%; }
+.jqRatingTip { z-index:9999; display: none; background: url("../img/bg_jqRatingTip.png") no-repeat; width: 91px; height: 34px; line-height: 34px; position: absolute; color: #FFF; text-align:center; font-weight: bold; }
+.jqRatingTip span.rate { color:#c9c9c9; font-size:15px; }
